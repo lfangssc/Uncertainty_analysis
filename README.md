@@ -10,3 +10,5 @@
 4. Bayesian statistical modeling.  The preceding approaches all apply to deterministic models. In practice, many of the parameters in these models have been estimated from data but are then, at least initially, treated as known and fixed entities in the models. Stochastic models estimate the parameters from the data and fit the model in one step, thereby directly incorporating uncertainty in the parameter estimates due to imperfections in the data.  Bayesian modelling goes one step further and incorporates additional uncertainty in the parameters from other sources (expressed in terms of probability distributions).
 
 [Crystalball](https://www.oracle.com/applications/crystalball/): a spreadsheet-based software suite for predictive modeling, forecasting, Monte Carlo simulation and optimization
+
+[IEHIAS](http://www.integrated-assessment.eu/eu/guidebook/methods_uncertainty_analysis.html)
