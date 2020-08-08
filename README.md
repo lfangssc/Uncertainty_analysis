@@ -11,4 +11,7 @@
 
 [Crystalball](https://www.oracle.com/applications/crystalball/): a spreadsheet-based software suite for predictive modeling, forecasting, Monte Carlo simulation and optimization
 
-[IEHIAS](http://www.integrated-assessment.eu/eu/guidebook/methods_uncertainty_analysis.html)
+[IEHIAS](http://www.integrated-assessment.eu/eu/guidebook/methods_uncertainty_analysis.html): case studies
+
+
+[pandas-montecarlo](https://pypi.org/project/pandas-montecarlo/): python package
